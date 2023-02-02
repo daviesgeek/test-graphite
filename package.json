@@ -1,0 +1,8 @@
+{
+  "name": "test-graphite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:daviesgeek/test-graphite",
+  "author": "Matthew Davies <matthew@configure8.io>",
+  "license": "MIT"
+}
